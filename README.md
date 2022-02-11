@@ -107,4 +107,4 @@
 ####	[	121SSH计算机等级考试报名系统(含论文)	](	http://www.shuyue.fun/?type=productinfo&id=615	)
 ####	[	122SSH企业人力资源管理系统	](	http://www.shuyue.fun/?type=productinfo&id=616	)
 ####	[	123SSH校园精品课程网前后台	](	http://www.shuyue.fun/?type=productinfo&id=618	)
-####	[	124SSH酒店管理系统(含论文)	](	http://www.shuyue.fun/?type=productinfo&id=633	)![image](https://user-images.githubusercontent.com/14156958/153622321-50658219-ff8f-472f-8cf9-25a33b2af6e7.png)
+####	[	124SSH酒店管理系统(含论文)	](	http://www.shuyue.fun/?type=productinfo&id=633	)
